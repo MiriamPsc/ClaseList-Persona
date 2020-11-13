@@ -1,0 +1,11 @@
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\bin\Debug\netcoreapp2.1\EstructuraClaseLista.deps.json
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\bin\Debug\netcoreapp2.1\EstructuraClaseLista.runtimeconfig.json
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\bin\Debug\netcoreapp2.1\EstructuraClaseLista.runtimeconfig.dev.json
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\bin\Debug\netcoreapp2.1\EstructuraClaseLista.dll
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\bin\Debug\netcoreapp2.1\EstructuraClaseLista.pdb
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\obj\Debug\netcoreapp2.1\EstructuraClaseLista.csprojAssemblyReference.cache
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\obj\Debug\netcoreapp2.1\EstructuraClaseLista.csproj.CoreCompileInputs.cache
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\obj\Debug\netcoreapp2.1\EstructuraClaseLista.AssemblyInfoInputs.cache
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\obj\Debug\netcoreapp2.1\EstructuraClaseLista.AssemblyInfo.cs
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\obj\Debug\netcoreapp2.1\EstructuraClaseLista.dll
+C:\Users\miria\source\repos\EstructuraClaseLista\EstructuraClaseLista\obj\Debug\netcoreapp2.1\EstructuraClaseLista.pdb
